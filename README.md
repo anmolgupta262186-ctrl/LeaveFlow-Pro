@@ -1,79 +1,54 @@
-# 🚀 LeaveFlow Pro
+ LeaveFlow Pro
 
-### Smart Employee Leave Management System  
+ Smart Employee Leave Management System  
 A modern full-stack web application built using **Java Spring Boot** for managing employee leave requests efficiently.
-
----
-
-## 📌 Overview
+Overview
 
 LeaveFlow Pro digitizes the traditional leave approval process by allowing employees to submit leave requests online while HR/Admin can approve or reject requests through a professional dashboard.
 
----
+ Features
 
-## ✨ Features
-
-### 👨 Employee Management
+Employee Management
 - Add new employees
 - Store employee details securely
 
-### 📝 Leave Request System
+Leave Request System
 - Apply for leave online
 - Select leave dates
 - Mention leave reason
 
-### 📊 Admin Dashboard
+Admin Dashboard
 - View all leave requests
 - Approve requests
 - Reject requests
 - Monitor leave statuses
 
-### 🎨 Premium UI
+Premium UI
 - Blue-black modern theme
 - Responsive design
 - Interactive buttons
 - Glassmorphism layout
+Tech Stack
 
----
-
-## 🛠 Tech Stack
-
-### Backend
+Backend
 - Java
 - Spring Boot
 - Spring MVC
 - Spring Data JPA
 
-### Frontend
+Frontend
 - HTML
 - CSS
 - Thymeleaf
 
-### Database
+Database
 - H2 Database
-
-### Tools
+Tools
 - Maven
 - Git
 - GitHub
 - VS Code
 
----
-
-## 📷 Screenshots
-
-### 🏠 Home Page
-(Add screenshot here)
-
-### 📝 Leave Page
-(Add screenshot here)
-
-### 📊 Dashboard
-(Add screenshot here)
-
----
-
-## ▶ How to Run Project
 
 ```bash
 git clone https://github.com/anmolgupta262186-ctrl/LeaveFlow-Pro.git
